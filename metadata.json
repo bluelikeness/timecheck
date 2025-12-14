@@ -1,0 +1,5 @@
+{
+  "name": "시계",
+  "description": "A highly aesthetic, real-time digital clock displaying South Korea Standard Time (KST) with Korean formatting.",
+  "requestFramePermissions": []
+}
